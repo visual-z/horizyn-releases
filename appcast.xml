@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>Horizyn updates</title>
+    <item><title>Horizyn 0.1.0</title><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 07 Sep 2026 13:12:40 +0000</pubDate><description># Horizyn 0.1.0
+
+First signed release for Apple silicon Macs running macOS 12 or later.
+
+- Native terminal workspaces with sessions managed by the background terminal service.
+- Built-in update checks, a sidebar update button, and an automatic-check preference in Settings.
+- Updates show the running commands in every terminal session before asking you to close them and upgrade. Choosing Upgrade Later leaves those commands running.
+- Updates verify the package signature before installing.
+
+Download the DMG, drag Horizyn into Applications, and open it. Future releases can be installed from inside the app.
+
+Upgrading closes the listed terminal sessions and interrupts their commands. Save your work before confirming. Existing development builds must close their sessions and restart their older terminal service once to move to this release.
+</description><enclosure url="https://github.com/visual-z/horizyn-releases/releases/download/v0.1.0-build.1/Horizyn-0.1.0-build.1-arm64.dmg" sparkle:edSignature="eR1asliQqBUD9M9tfzQbaiFqYgctSvYhFuimk+v1mfIdaUFyOreIGS4nuY8lPScrwaTgZr3gagHX3ITOQbQkBg==" length="9981847" type="application/octet-stream" /></item><title>Horizyn updates</title>
     <link>https://github.com/visual-z/horizyn-releases/releases</link>
     <description>Signed macOS updates for Horizyn.</description>
     <language>en</language>
