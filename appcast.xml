@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Horizyn 0.1.0</title><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 07 Sep 2026 13:12:40 +0000</pubDate><description># Horizyn 0.1.0
+    <item><title>Horizyn 0.1.0</title><sparkle:version>2</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 07 Sep 2026 16:33:23 +0000</pubDate><description># Horizyn 0.1.0 · Build 2
+
+修复空工作区无法关闭的问题：没有终端标签页时，也可以通过关闭按钮、右键菜单或命令面板正常关闭工作区。
+
+适用于 Apple Silicon Mac，要求 macOS 12.0 或更新版本。
+</description><enclosure url="https://github.com/visual-z/horizyn-releases/releases/download/v0.1.0-build.2/Horizyn-0.1.0-build.2-arm64.dmg" sparkle:edSignature="z8mTMJfUjPhi9HLnuxC9j4qQuRwFjACrBWN29a04cuOTPq1fD3cZokmFYHYdCVb1F/L+6/rhDo86fjUE4xTHBA==" length="11232087" type="application/octet-stream" /></item><item><title>Horizyn 0.1.0</title><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 07 Sep 2026 13:12:40 +0000</pubDate><description># Horizyn 0.1.0
 
 First signed release for Apple silicon Macs running macOS 12 or later.
 
