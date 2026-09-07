@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Horizyn updates</title>
+    <link>https://github.com/visual-z/horizyn-releases/releases</link>
+    <description>Signed macOS updates for Horizyn.</description>
+    <language>en</language>
+  </channel>
+</rss>
