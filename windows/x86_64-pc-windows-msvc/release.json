@@ -9,7 +9,7 @@
   "notes": "Horizyn for Windows 0.1.45：首个 Windows 安装版。下载 Setup 运行即可安装，之后在 App 内自动更新。安装包未做代码签名，首次运行时 SmartScreen 会提示，请点「更多信息 → 仍要运行」。需要配合 Horizyn for Mac 0.1.45 使用的手机端功能。",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/v0.1.45/horizyn-update-1-x64.zip",
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v0.1.45/horizyn-update-1-x64.zip",
     "bytes": 110585735,
     "sha256": "5330a341f885fdf36c25dd33dc77543bf5aa44dfad3c469fce61871176dbbc4c",
     "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnmKd/pB7oSar3blTsPsRjD9MdRLBl9oan7g/6EK6DozYEwGnhyuZzhe0T94tvdVJIrxK9gJFVeP1/3AauBqcdAk=\ntrusted comment: timestamp:1793631480\tfile:horizyn-update-1-x64.zip\thashed\nj0PSb9CfpblDlaoDW8gHd4YebnU9kXW/DAJLYiJ0gLORYpys1OAKAWP0J/EqlOW602fH4dT0XjOzW3qLiH6TAg==\n"
