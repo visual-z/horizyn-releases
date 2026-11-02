@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "0.1.45",
-  "version_code": 1,
+  "version": "0.1.46",
+  "version_code": 2,
   "minimum_sdk": 30,
-  "notes": "Horizyn Android 0.1.45：首个正式签名版本，之后在 App 内自动更新。从此前的调试版升级需先卸载。需要配合 Horizyn for Mac 0.1.45。",
+  "notes": "发布了 Horizyn for Android 0.1.46 版本",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v0.1.45/Horizyn-0.1.45-1.apk",
-    "bytes": 53311648,
-    "sha256": "48d3d9db5ba0cbb58b4ab107dc0d1abb1651131257bbb8e26029737c57f1aefc"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v0.1.46/Horizyn-0.1.46-2.apk",
+    "bytes": 53352021,
+    "sha256": "8e961bc7effa2b2b39700c65cfcc39ab78c3b9a4fbb24851e9826284e0687be6"
   }
 }
