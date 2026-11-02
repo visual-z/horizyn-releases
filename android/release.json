@@ -7,7 +7,7 @@
   "minimum_sdk": 30,
   "notes": "Horizyn Android 0.1.45：首个正式签名版本，之后在 App 内自动更新。从此前的调试版升级需先卸载。需要配合 Horizyn for Mac 0.1.45。",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-1/Horizyn-0.1.45-1.apk",
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/v0.1.45/Horizyn-0.1.45-1.apk",
     "bytes": 53311648,
     "sha256": "48d3d9db5ba0cbb58b4ab107dc0d1abb1651131257bbb8e26029737c57f1aefc"
   }
