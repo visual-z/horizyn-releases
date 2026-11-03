@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "0.1.46",
-  "build": 2,
+  "version": "0.1.47",
+  "build": 3,
   "minimum_windows_build": 17763,
-  "notes": "新的远程访问通知与提醒规则",
+  "notes": "发布了 Horizyn for Windows 0.1.47 版本",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v0.1.46/horizyn-update-2-x64.zip",
-    "bytes": 110596999,
-    "sha256": "5f18357911dffcc91b923fd08b62fdd81e8fbe90e3eb90d56edbad115cc53bf0",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybngVMyWVIDtiGA/tI2Hqx/JK6iXq3Zoh90sAryLNTqb5o2/4p0v6WTWje3XAn67D3yfLaQKtaAzHJWSiZ6s/3NAE=\ntrusted comment: timestamp:1793676889\tfile:horizyn-update-2-x64.zip\thashed\nlTpl49P8H0zzp9uCq4xbbMg5zMieSdArQ91tnhJzuTa5EGIKReCsnCrUTHca028FAC/aE059qb9av6APJJioCw==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v0.1.47/horizyn-update-3-x64.zip",
+    "bytes": 111091079,
+    "sha256": "d764805ce7d2d8f81f83b9070c960acf45e8e4fea669772772718450f00d2e8a",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnvHy+CK0gS0PW42WP4G911W1rSdlKgKokiMyLzqax31ueHP3A2pQigMV32QZULBjS5ciKp3YLE8+pNA3wAybHwI=\ntrusted comment: timestamp:1793707431\tfile:horizyn-update-3-x64.zip\thashed\n5IcLD489bOLJnBPe0sNzFK/7VDNHHEVc3mKcbGiVYIDKepR5r/zvKz/yP3jd1xVJZWO15zprpj1BlY5vM5BFDw==\n"
   }
 }
