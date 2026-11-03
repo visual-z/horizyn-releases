@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "0.1.46",
-  "version_code": 2,
+  "version": "0.1.47",
+  "version_code": 3,
   "minimum_sdk": 30,
-  "notes": "发布了 Horizyn for Android 0.1.46 版本",
+  "notes": "回形针发附件、点击鼠标程序、横滑移光标、平滑滚动",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v0.1.46/Horizyn-0.1.46-2.apk",
-    "bytes": 53352021,
-    "sha256": "8e961bc7effa2b2b39700c65cfcc39ab78c3b9a4fbb24851e9826284e0687be6"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v0.1.47/Horizyn-0.1.47-3.apk",
+    "bytes": 53598607,
+    "sha256": "f01d91f77dd2391b11d03309089c74d7a2782143163ebdacb3b4928d1dccbc8d"
   }
 }
