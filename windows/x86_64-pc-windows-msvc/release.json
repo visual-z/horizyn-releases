@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "0.1.48",
-  "build": 4,
+  "version": "1.0.0",
+  "build": 5,
   "minimum_windows_build": 17763,
-  "notes": "发布了 Horizyn for Windows 0.1.48 版本",
+  "notes": "",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v0.1.48/horizyn-update-4-x64.zip",
-    "bytes": 113088043,
-    "sha256": "e7dfa985ef7e371cde3ea05135d0f87123d455238592ff52d8531521891b1e7b",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnhhsXMXITPSPMS+azlp15Cs1oDQhLpfnd9q71Xwbsiley6PhxtX8X5nvkvyZDLpEyLBG40ONzr6Nhqn7ANfPXQM=\ntrusted comment: timestamp:1793867585\tfile:horizyn-update-4-x64.zip\thashed\n8v2Or9GWKOuDTh+/Cg9A2YWy6TgDXm19i2iW0A+iLxBqgWVs6COcW5kvJSCqLGQYEJgITCp6OX6fyZN7yzWGDw==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.0/horizyn-update-5-x64.zip",
+    "bytes": 85732423,
+    "sha256": "0f5d24ce4dab9e7ed795f7105aa9a4f27ba29db7bfdf52cb764a3d421718f8c6",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnmT+UOVsdY4YWLNmQ/R27TMb0PciPrNr0UZaaxT9LuRI6kXb0nSQ3exZH683h8rq0byK5M8cNdBMY20n5r1Muwc=\ntrusted comment: timestamp:1794192376\tfile:horizyn-update-5-x64.zip\thashed\n7NpZj1zlGV+P5OTCXclbDuRxvscRoEbNf1LARrlRYT6VID8uszg9Ga/X8CtG1oFd2u5HmHbYXAwQ041Gu8wSCw==\n"
   }
 }
