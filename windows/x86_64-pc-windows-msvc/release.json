@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.2",
-  "build": 7,
+  "version": "1.0.3",
+  "build": 8,
   "minimum_windows_build": 17763,
-  "notes": "修复更新卡住的问题：菜单栏退出与托盘在更新被取消后不再失效。",
+  "notes": "发布了 Horizyn for Windows 1.0.3 版本",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.2/horizyn-update-7-x64.zip",
-    "bytes": 87922759,
-    "sha256": "d92140c30061eb60ea76d6b094ee7aedd33f82fcf4d9a8060294d09f6037e6ba",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnsmGWFZGxoxYKnha6LoYObi5lmeNlj9WVNv7hTwWzAQpoD8EqZAeWJlJv6UpGKAx2V7lC5HdMNM3KnhREUfEnA4=\ntrusted comment: timestamp:1794318629\tfile:horizyn-update-7-x64.zip\thashed\n1dP3ndmYvbHkViICJ6LrsuKgOwRZeC0SAUVGFDA4wngSyAgE3aT2lukWy8NpzBH2EW7wUkcL0hD0/ZRajn0dAw==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.3/horizyn-update-8-x64.zip",
+    "bytes": 85046855,
+    "sha256": "4a5ece8169b5e8a2c3aa89a35bacf9f735e1c4089442f7a35aaf0b129ee82c38",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnqLrnRirA5IJcKGrIEhPHYovDGPCquSuZIPt3xfltg3iRBrclZ5k4z/1PjL8X7ct4hMV5aYEjiv6lxy6coxn+Ao=\ntrusted comment: timestamp:1794371726\tfile:horizyn-update-8-x64.zip\thashed\nb3PPLMEy4XjgaIZi5JfosVRRQt2R953SAnZb1AiBHw4vvymXa1ZmM0qrw1UqnF8TGoYbHS4pCZ2rvYOM430tCw==\n"
   }
 }
