@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.3",
-  "version_code": 9,
+  "version": "1.0.4",
+  "version_code": 10,
   "minimum_sdk": 30,
-  "notes": "发布了 Horizyn for Android 1.0.3 版本",
+  "notes": "发布了 Horizyn for Android 1.0.4 版本",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.3/Horizyn-1.0.3-9.apk",
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.4/Horizyn-1.0.4-10.apk",
     "bytes": 26074435,
-    "sha256": "7237ca187060d4fad73683eadc073d20cbb4470f9ccaeaa4e8da342e24ebc1c6"
+    "sha256": "2c2cbc15639e4c57c4717f770f9fb3046f8e2cd20b8927a8115b175cafc39680"
   }
 }
