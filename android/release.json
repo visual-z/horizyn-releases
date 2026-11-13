@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.4",
-  "version_code": 10,
+  "version": "1.0.5",
+  "version_code": 11,
   "minimum_sdk": 30,
-  "notes": "发布了 Horizyn for Android 1.0.4 版本",
+  "notes": "有会话需要你处理时，实况卡片会自己展开",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.4/Horizyn-1.0.4-10.apk",
-    "bytes": 26074435,
-    "sha256": "2c2cbc15639e4c57c4717f770f9fb3046f8e2cd20b8927a8115b175cafc39680"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.5/Horizyn-1.0.5-11.apk",
+    "bytes": 26074442,
+    "sha256": "005772a215c5559d5478970f3083a6575a56688015e0f18f0a0c359ceffd5d44"
   }
 }
