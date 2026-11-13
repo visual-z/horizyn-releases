@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.5",
-  "build": 10,
+  "version": "1.0.6",
+  "build": 12,
   "minimum_windows_build": 17763,
-  "notes": "首次安装可选择安装位置；此版本起应用内更新保留正在运行的终端",
+  "notes": "PowerShell 集成、Windows 常用按键与窗口操作，以及安装和更新的一轮修复",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.5/horizyn-update-10-x64.zip",
-    "bytes": 85562951,
-    "sha256": "ad824d63e2cf7006c0f80fd892279cab12ceaf1dc1118f088fa504b8d75f3d0e",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnmxaWAGdDFF+NhE4oeLIYmO86pwSAHkkrPx1m2zOnANaqG18sc9z1X7IUqMNa15TTw2Gjtk4uEF8xpxEdn0uIAo=\ntrusted comment: timestamp:1794495890\tfile:horizyn-update-10-x64.zip\thashed\ns0i8fv88ZGuYwt2QFiOEQX9mpn/xL8OvnG7usumEhsrzNd5NzlQhTlzxUaqI6XKbGuRfQT/TVWK+eIiPWSh5Cg==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.6/horizyn-update-12-x64.zip",
+    "bytes": 85921863,
+    "sha256": "40657fd09ef2832d42a5f5650c44d5fd07379967b2a0e1db8b4a094334866372",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnue6OOf9AwbfrderrF59pW2f2tSQ1KMqopgNMdoQRclQSR/NZkY8Q9OY77o6fxyY+B2G5OjOUui2FWXKEUug1wI=\ntrusted comment: timestamp:1794538664\tfile:horizyn-update-12-x64.zip\thashed\n0cB7rIrhU5Jsm3xLSrBooYj+3L6f4jXWd7D7Qc9sw9QTo9iyZvq4G5zkHgjgmrPMbAKRpVv8crfR+a8VoIX4Bw==\n"
   }
 }
