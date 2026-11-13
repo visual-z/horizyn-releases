@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.5",
-  "version_code": 11,
+  "version": "1.0.6",
+  "version_code": 12,
   "minimum_sdk": 30,
-  "notes": "有会话需要你处理时，实况卡片会自己展开",
+  "notes": "修复后台久置后一直重连、全屏程序里滚动不跟手和符号显示成空框，远程连接按实测延迟选路",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.5/Horizyn-1.0.5-11.apk",
-    "bytes": 26074442,
-    "sha256": "005772a215c5559d5478970f3083a6575a56688015e0f18f0a0c359ceffd5d44"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.6/Horizyn-1.0.6-12.apk",
+    "bytes": 26298819,
+    "sha256": "7a57973f33e44e09233e4e3f2a30106e6b72671967f0f85523feed3f42279c92"
   }
 }
