@@ -1,6 +1,6 @@
 cask "horizyn" do
-  version "1.0.8"
-  sha256 "1dfbbb2826c00411a8e885a8d3348f8397d51383c5dab234ba0ea2dd488b8725"
+  version "1.0.9"
+  sha256 "b9677c5ba2df4e8895d343eb778c9fd89f564498736feec1b5f1bb9b07181c5c"
 
   url "https://github.com/visual-z/horizyn-releases/releases/download/v#{version}/Horizyn-#{version}-arm64.dmg"
   name "Horizyn"
