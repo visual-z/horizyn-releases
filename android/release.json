@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.6",
-  "version_code": 12,
+  "version": "1.0.7",
+  "version_code": 13,
   "minimum_sdk": 30,
-  "notes": "修复后台久置后一直重连、全屏程序里滚动不跟手和符号显示成空框，远程连接按实测延迟选路",
+  "notes": "主机图标和电脑上一致，多认 20 个系统",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.6/Horizyn-1.0.6-12.apk",
-    "bytes": 26298819,
-    "sha256": "7a57973f33e44e09233e4e3f2a30106e6b72671967f0f85523feed3f42279c92"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.7/Horizyn-1.0.7-13.apk",
+    "bytes": 26376962,
+    "sha256": "6adab3884c5579b2f173581d4896af8f50f73dd5063a10a266c452aace87704d"
   }
 }
