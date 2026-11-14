@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.7",
-  "build": 13,
+  "version": "1.0.8",
+  "build": 14,
   "minimum_windows_build": 17763,
-  "notes": "手机连接这台电脑时按实测延迟在中继和直连之间选路",
+  "notes": "Agent 可以直接在已保存的主机上跑命令、传文件，主机可设为始终允许 Agent 连接",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.7/horizyn-update-13-x64.zip",
-    "bytes": 85534998,
-    "sha256": "2d936aa1e4a3fc2dff1cf7d04ed7121eeedcefe9fe0279153a65c9834574fa57",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnmfULAeUupWZmjRVk0UyTDZLBuiB4RAWOcsJxsDw7DyvHAdZLdEvMO0yxoSlQqJA6WGHZNKS1pE8wKt/Tkh01AA=\ntrusted comment: timestamp:1794561626\tfile:horizyn-update-13-x64.zip\thashed\n6EbmWJShIBWsqLpaC3eqgM1EohS5g+CaNlyhMGBT/82UMNTZYk/i82MiOmjXPQn3Yxuhq6am7FfCTgrIzKIXAA==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.8/horizyn-update-14-x64.zip",
+    "bytes": 86278088,
+    "sha256": "3ff27fd93c635a358e90b1117a3b4d537e7a50c2189622b71306f8339c42a0e2",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnvVyOqVeVhn268QzCHz+2rQvl8+yGLiG/BaG0kv0HS3M9wYG36tGNakiRA5mNR9yKQdHgUgBhkw+6Ti1NCFJlg0=\ntrusted comment: timestamp:1794631251\tfile:horizyn-update-14-x64.zip\thashed\nvWcnZBNwk7LAMZdBS1B0iZfCpDhUuCjxZGY1eAbfZZJwGEgsxVV15ZAWwjAavo+3oN6fu4J9HREf5W41z7ALDA==\n"
   }
 }
