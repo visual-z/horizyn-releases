@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.7",
-  "version_code": 13,
+  "version": "1.0.8",
+  "version_code": 14,
   "minimum_sdk": 30,
-  "notes": "主机图标和电脑上一致，多认 20 个系统",
+  "notes": "自带主题的亮色和普通色区分开了",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.7/Horizyn-1.0.7-13.apk",
-    "bytes": 26376962,
-    "sha256": "6adab3884c5579b2f173581d4896af8f50f73dd5063a10a266c452aace87704d"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.8/Horizyn-1.0.8-14.apk",
+    "bytes": 26376940,
+    "sha256": "6b875de1df6cc22521f2cc178886720ced0032f6d3daef89824b79b3876cffaf"
   }
 }
