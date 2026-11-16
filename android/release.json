@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.8",
-  "version_code": 14,
+  "version": "1.0.9",
+  "version_code": 15,
   "minimum_sdk": 30,
-  "notes": "自带主题的亮色和普通色区分开了",
+  "notes": "发布了 Horizyn for Android 1.0.9 版本",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.8/Horizyn-1.0.8-14.apk",
-    "bytes": 26376940,
-    "sha256": "6b875de1df6cc22521f2cc178886720ced0032f6d3daef89824b79b3876cffaf"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.9/Horizyn-1.0.9-15.apk",
+    "bytes": 26409726,
+    "sha256": "6aa7431130771ec7a3c5a89e449a62c3c0b46cd4b4de22de63d3a452e62110b0"
   }
 }
