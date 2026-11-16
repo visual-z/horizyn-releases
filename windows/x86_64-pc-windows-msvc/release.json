@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.9",
-  "build": 15,
+  "version": "1.0.10",
+  "build": 16,
   "minimum_windows_build": 17763,
-  "notes": "设置在界面放大后可以滚动，弹窗和菜单不再超出窗口，自带主题的亮色区分开了",
+  "notes": "发布了 Horizyn for Windows 1.0.10 版本",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.9/horizyn-update-15-x64.zip",
-    "bytes": 86347720,
-    "sha256": "00d42ab91b41f24e4406fd6c22dd8f6ce3402ac51a3879537e03528f527aec8e",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnvnHgx0AvihBBNB5JEOZBW0cSfzVADJLsZViFD5wT0giKc75YJXtBFncQ77nFsm3zpWYWOmKZp1Du8nijgoz6Qg=\ntrusted comment: timestamp:1794645144\tfile:horizyn-update-15-x64.zip\thashed\njf/d10/NwmfiZ+GhNa3jbenOJQJhgpZD6YljWI9TiWSRFNxodW+k7vrVaRBxebnwDWcxVdxzyonGaG3WpS2VCA==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.10/horizyn-update-16-x64.zip",
+    "bytes": 89115080,
+    "sha256": "09f7400a1c90cfe9619c45056d533b56c80508875266827000ac55040c27469a",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnkVjAXqayGzwSVKzqWrxl398xfh9+PgL7y0PJH5uOQUYPSaIfduL+b4+2CvygqG+L+tQ4bAH8iwPv/STv6ca3Qs=\ntrusted comment: timestamp:1794851849\tfile:horizyn-update-16-x64.zip\thashed\nWotiq7NqnRhvuJuFQohJ4eGmLg7P+k6V4kGF2Jbs6ambIUqnjeswgHNHx/LlKNHz/WNGydjJtup4j2MNdwVtAg==\n"
   }
 }
