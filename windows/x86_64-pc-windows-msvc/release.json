@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.10",
-  "build": 16,
+  "version": "1.0.11",
+  "build": 17,
   "minimum_windows_build": 17763,
-  "notes": "发布了 Horizyn for Windows 1.0.10 版本",
+  "notes": "两台电脑配对互控，设置里经 Windows Hello 查看与复制密钥",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.10/horizyn-update-16-x64.zip",
-    "bytes": 89115080,
-    "sha256": "09f7400a1c90cfe9619c45056d533b56c80508875266827000ac55040c27469a",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnkVjAXqayGzwSVKzqWrxl398xfh9+PgL7y0PJH5uOQUYPSaIfduL+b4+2CvygqG+L+tQ4bAH8iwPv/STv6ca3Qs=\ntrusted comment: timestamp:1794851849\tfile:horizyn-update-16-x64.zip\thashed\nWotiq7NqnRhvuJuFQohJ4eGmLg7P+k6V4kGF2Jbs6ambIUqnjeswgHNHx/LlKNHz/WNGydjJtup4j2MNdwVtAg==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.11/horizyn-update-17-x64.zip",
+    "bytes": 92062664,
+    "sha256": "1b6d7ad32e9f4cd86ecd9c66509cd7f8af1e621fb801e5c0fb8bedcef1f98268",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnlFmgDl+qxRJhTpZbjSByTgXV2RVruBDXb8Wp0CJ6lcOqJ4w3ASPpT1Ddv2D3JTLt8FqR1cKhWW74hisNmIfowQ=\ntrusted comment: timestamp:1795006044\tfile:horizyn-update-17-x64.zip\thashed\nUDFGtu94fV+A/wzc2vRXtTzprf7o1mzuHxgZynWZMR9rvFEHevkzEhycCjhrW2TTB75fqVR3zngr4cGGbubpCQ==\n"
   }
 }
