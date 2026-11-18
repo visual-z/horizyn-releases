@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "horizyn-android",
   "channel": "stable",
-  "version": "1.0.9",
-  "version_code": 15,
+  "version": "1.0.10",
+  "version_code": 16,
   "minimum_sdk": 30,
-  "notes": "发布了 Horizyn for Android 1.0.9 版本",
+  "notes": "配对时电脑上显示这台手机自己的名字",
   "package": {
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.9/Horizyn-1.0.9-15.apk",
-    "bytes": 26409726,
-    "sha256": "6aa7431130771ec7a3c5a89e449a62c3c0b46cd4b4de22de63d3a452e62110b0"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/android-v1.0.10/Horizyn-1.0.10-16.apk",
+    "bytes": 26557182,
+    "sha256": "850b6c427f12b10e1cdd73af60483465ee2f0155183d0bf3f22086ad43ba02d5"
   }
 }
