@@ -3,15 +3,15 @@
   "product": "horizyn-windows",
   "target": "x86_64-pc-windows-msvc",
   "channel": "stable",
-  "version": "1.0.13",
-  "build": 19,
+  "version": "1.0.14",
+  "build": 20,
   "minimum_windows_build": 17763,
-  "notes": "发布了 Horizyn for Windows 1.0.13 版本",
+  "notes": "流式输出不再每帧重画整窗（帧率 120 → ~20）；空闲窗格重放上一帧；引擎升级到 libghostty-vt 1.0.2。",
   "package": {
     "format": "portable-zip",
-    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.13/horizyn-update-19-x64.zip",
-    "bytes": 94817558,
-    "sha256": "b96316501f805bc8c6fdfde84c861a63497350f538c12294a22164270416e38e",
-    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybnlNxQU9PrTnY67fxdmP28OuiLBdxBptl+BtfM7/mA1qf07IEkyYC1ZnsyU+tbhel+oPHWhofktYpq2gWoUjP4Q8=\ntrusted comment: timestamp:1795510701\tfile:horizyn-update-19-x64.zip\thashed\noE3qC0yHZhSAh48TMU1Kx5dAxi+h/0rJjR4S7S0pOuoGyR4spJhyXPU3wSLEgpTDst1Osi84wlde+zdCAWzgCw==\n"
+    "url": "https://github.com/visual-z/horizyn-releases/releases/download/windows-v1.0.14/horizyn-update-20-x64.zip",
+    "bytes": 94543816,
+    "sha256": "f0c0a29bf9391962ea623c14238c738bb1666be6ec689864d606becdd6757f99",
+    "signature": "untrusted comment: signature from minisign secret key\nRUQmQV3gKyybntP6DQi5jz+G2mPnwz2OnSMCGAhyQdNF3ZXQ5nIrOKOHiThLBLP4mfCY6UO2GO5ytwldNjk/Glo/HbIFqB6oZgw=\ntrusted comment: timestamp:1795678189\tfile:horizyn-update-20-x64.zip\thashed\nb7aR77hSxCPmQZ2OaJDBYL5ixZE/KdLGivxSoSrMq38uEit8wDZYqmbtlnUZSAqCoHdOFvfhOhx68SK8p4MqDw==\n"
   }
 }
